@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm a Computer Mathematics PhD 👋
 
-<!--
-**JamalHosseinPoor/JamalHosseinPoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Tester | Test Automation | Data Science
 
-Here are some ideas to get you started:
+I hold a PhD in Computer Mathematics and have professional experience in software testing and test automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background combines mathematical reasoning, analytical problem-solving, and software quality assurance. I am currently expanding my programming and data science skills, with a focus on Python, statistics, and machine learning.
+
+## 🎓 Education
+
+* **PhD in Computer Mathematics**
+
+## 💼 Professional Skills
+
+* **Test Automation:** Tricentis Tosca
+* **Test Management:** Jira, Confluence
+* **Software Testing:** Test Case Design, Agile Testing, State Transition Testing, Requirements Analysis
+* **Analytical Skills:** Mathematical Modeling, Logical Reasoning, Problem-Solving
+
+## 📚 Currently Learning
+
+* Python Programming
+* Data Science and Statistics
+* SQL and Data Analysis
+* Machine Learning
+* Git and GitHub
+
+## 🚀 Areas of Interest
+
+* Software Test Automation
+* Quality Assurance Engineering
+* Data Science and Analytics
+* Machine Learning
+
+## 🧪 Projects
+
+I am developing practical projects to apply my Python programming and analytical skills to real-world problems.
+
+More projects coming soon.
+
+## 📫 Connect With Me
+
+* **LinkedIn:** Add your LinkedIn URL
+* **Email:** Add your professional email
+
