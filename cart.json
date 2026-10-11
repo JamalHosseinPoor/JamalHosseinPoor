@@ -1,0 +1,13 @@
+{
+  "cart_code": "edfeafeb-26ad-4312-97a4-0958cdc98729",
+  "qty": 2,
+  "items": [
+    {
+      "pr_code": 1,
+      "name": "cart",
+      "price": 250.0,
+      "qty": 2
+    }
+  ],
+  "total_price": 250.0
+}
