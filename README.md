@@ -1,4 +1,9 @@
-# Hi, I'm a Computer Mathematics PhD 👋
+<h1 align="center">
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1500&color=000000&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+a+Computer+Mathematics+PhD+%F0%9F%91%8B"
+alt="Hi, I'm a Computer Mathematics PhD"
+/>
+</h1>
 
 ### Software Tester | Test Automation | Data Science
 
