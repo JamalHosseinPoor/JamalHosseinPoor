@@ -40,5 +40,5 @@ More projects coming soon.
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** https://www.linkedin.com/in/jamal-hossein-poor-990b14a3/?isSelfProfile=false
+* **LinkedIn:** https://www.linkedin.com/in/jamal-hossein-poor-990b14a3/
 * **Email:** jamal.hosseinpoor@3bankenit.at
