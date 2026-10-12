@@ -23,7 +23,7 @@ My background combines mathematical reasoning, analytical problem-solving, and s
 * **Analytical Skills:** Mathematical Modeling, Logical Reasoning, Problem-Solving
 
 ## 📚 Currently Learning
-![Python](https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 * Python Programming
 * Data Science and Statistics
 * SQL and Data Analysis
