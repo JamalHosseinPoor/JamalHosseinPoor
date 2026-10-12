@@ -19,7 +19,7 @@ My background combines mathematical reasoning, analytical problem-solving, and s
 
 * **Test Automation:** [![Tosca](https://img.shields.io/badge/Tosca-Test_Automation-5B2C83?style=flat)](https://www.tricentis.com/products/automate-continuous-testing-tosca)
 * **Test Management:** [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence?gclsrc=aw.ds&&campaign=18377446465&adgroup=195767517498&targetid=kwd-1636045395507&matchtype=p&network=g&device=c&device_model=&creative=802396577747&keyword=atlassian%20confluence%20page&placement=&target=&ds_eid=700000001542923&ds_e1=GOOGLE&assetgroupid=&gad_source=1&gad_campaignid=18377446465&gbraid=0AAAAAD2bkReoB3M0MDW1_w_UqpvA5Rxfi&gclid=CjwKCAjwirLWBhBBEiwAlItbEq7z2n5lyVklc94hURsxEH9ZVQAcOMfpiAYUPmNwITlXZfHEjM7PPhoCJ54QAvD_BwE)
 * **Software Testing:** Test Case Design, Agile Testing, State Transition Testing, Requirements Analysis
 * **Analytical Skills:** Mathematical Modeling, Logical Reasoning, Problem-Solving
 
