@@ -17,10 +17,9 @@ My background combines mathematical reasoning, analytical problem-solving, and s
 
 ## 💼 Professional Skills
 
-* **Test Automation:** [![Tosca](https://img.shields.io/badge/Tosca-Test_Automation-5B2C83?style=for-the-badge)](https://www.tricentis.com/products/automate-continuous-testing-tosca)Tricentis Tosca
+* **Test Automation:** [![Tosca](https://img.shields.io/badge/Tosca-Test_Automation-5B2C83?style=for-the-badge)](https://www.tricentis.com/products/automate-continuous-testing-tosca)
 * **Test Management:** [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-Jira,
-[![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence) Confluence
+[![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)](https://www.atlassian.com/software/confluence)
 * **Software Testing:** Test Case Design, Agile Testing, State Transition Testing, Requirements Analysis
 * **Analytical Skills:** Mathematical Modeling, Logical Reasoning, Problem-Solving
 
